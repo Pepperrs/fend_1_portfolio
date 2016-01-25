@@ -7,3 +7,15 @@ body {
 .font-thin {
   font-weight: 100;
 }
+
+/* row-centered and col-centered have been taken from
+ http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-centered-columns */
+
+.row-centered {
+  text-align: center;
+}
+.col-centered {
+  display: inline-block;
+  float: none;
+  margin-right: -4px;
+}
