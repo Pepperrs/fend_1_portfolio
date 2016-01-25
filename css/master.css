@@ -19,3 +19,15 @@ body {
   float: none;
   margin-right: -4px;
 }
+
+/* source http://stackoverflow.com/a/4151770 */
+
+hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #111;
+  /* old IE */
+  background-color: #111;
+  /* Modern Browsers */
+}
