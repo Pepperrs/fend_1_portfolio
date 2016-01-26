@@ -7,6 +7,10 @@ body {
 .font-thin {
   color: #666;
 }
+.logo-size{
+  height: 100px;
+  width: 100px;
+}
 
 /* row-centered and col-centered have been taken from
  http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-centered-columns */
